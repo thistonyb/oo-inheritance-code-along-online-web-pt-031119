@@ -1,4 +1,4 @@
-require_relative "./vehicle.rb"
+require_relative "lib/vehicle.rb"
 class Car < Vehicle
 
   def go
